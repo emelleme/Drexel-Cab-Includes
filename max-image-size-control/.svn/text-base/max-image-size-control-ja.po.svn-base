@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Max Image Size Control\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-29 20:16+0900\n"
+"PO-Revision-Date: 2009-07-29 20:17+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: max-image-size-control\n"
+
+#: max-image-size-control/max-image-size-control.php:48
+#: max-image-size-control/max-image-size-control.php:99
+msgid "Max Image Size Control"
+msgstr "Max Image Size Control"
+
+#: max-image-size-control/max-image-size-control.php:87
+msgid "Options updated."
+msgstr "オプションは更新されました。"
+
+#: max-image-size-control/max-image-size-control.php:91
+msgid "Options deleted."
+msgstr "オプションは削除されました。"
+
+#: max-image-size-control/max-image-size-control.php:105
+#: max-image-size-control/max-image-size-control.php:205
+#: max-image-size-control/max-image-size-control.php:221
+msgid "Click to toggle"
+msgstr "クリックで切替"
+
+#: max-image-size-control/max-image-size-control.php:106
+msgid "Max Image Size Control Options"
+msgstr "Max Image Size Control 設定"
+
+#: max-image-size-control/max-image-size-control.php:113
+msgid "Setting"
+msgstr "設定"
+
+#: max-image-size-control/max-image-size-control.php:114
+msgid "You need to specify at least one of the following five sections. If not, settings will be deleted."
+msgstr "次の五つの区分を少なくとも一つは指定する必要があります。指定しない場合、設定は削除されます。"
+
+#: max-image-size-control/max-image-size-control.php:118
+msgid "Apply to every post"
+msgstr "全ての記事に適用する"
+
+#: max-image-size-control/max-image-size-control.php:122
+msgid "Post ID (comma-deliminated)"
+msgstr "Post ID（カンマ区切り）"
+
+#: max-image-size-control/max-image-size-control.php:126
+msgid "Category ID (comma-deliminated)"
+msgstr "カテゴリーID（カンマ区切り）"
+
+#: max-image-size-control/max-image-size-control.php:130
+msgid "Exclude Post ID (comma-deliminated)"
+msgstr "除外Post ID（カンマ区切り）"
+
+#: max-image-size-control/max-image-size-control.php:134
+msgid "Exclude Category ID (comma-deliminated)"
+msgstr "除外カテゴリーID（カンマ区切り）"
+
+#: max-image-size-control/max-image-size-control.php:138
+msgid "Thumbnail size"
+msgstr "サムネイルのサイズ"
+
+#: max-image-size-control/max-image-size-control.php:140
+#: max-image-size-control/max-image-size-control.php:151
+#: max-image-size-control/max-image-size-control.php:162
+#: max-image-size-control/max-image-size-control.php:176
+msgid "Width"
+msgstr "幅"
+
+#: max-image-size-control/max-image-size-control.php:142
+#: max-image-size-control/max-image-size-control.php:153
+#: max-image-size-control/max-image-size-control.php:164
+#: max-image-size-control/max-image-size-control.php:178
+msgid "Height"
+msgstr "高さ"
+
+#: max-image-size-control/max-image-size-control.php:145
+#: max-image-size-control/max-image-size-control.php:156
+#: max-image-size-control/max-image-size-control.php:167
+#: max-image-size-control/max-image-size-control.php:181
+msgid "Crop"
+msgstr "トリミング"
+
+#: max-image-size-control/max-image-size-control.php:149
+msgid "Medium size"
+msgstr "中サイズ"
+
+#: max-image-size-control/max-image-size-control.php:160
+msgid "Large size"
+msgstr "大サイズ"
+
+#: max-image-size-control/max-image-size-control.php:174
+msgid "Custom size"
+msgstr "カスタムサイズ"
+
+#: max-image-size-control/max-image-size-control.php:196
+msgid "Update Options &raquo;"
+msgstr "オプションを更新する &raquo;"
+
+#: max-image-size-control/max-image-size-control.php:206
+msgid "Delete Options"
+msgstr "オプションを削除する"
+
+#: max-image-size-control/max-image-size-control.php:208
+msgid "Are you sure to delete options? Options you set will be deleted."
+msgstr "本当にオプションを削除してもよろしいですか？設定したオプションは削除されます。"
+
+#: max-image-size-control/max-image-size-control.php:212
+msgid "Delete Options &raquo;"
+msgstr "オプションを削除する &raquo;"
+
+#: max-image-size-control/max-image-size-control.php:222
+msgid "Donation"
+msgstr "寄付"
+
+#: max-image-size-control/max-image-size-control.php:224
+msgid "If you liked this plugin, please make a donation via paypal! Any amount is welcome. Your support is much appreciated."
+msgstr "このプラグインをお気に召しましたら、Paypalよりご寄付をよろしくお願いいたします。"
+
+#~ msgid "Original size"
+#~ msgstr "オリジナルサイズ"
+#~ msgid "Custom Field Template"
+#~ msgstr "カスタムフィールドテンプレート"
+#~ msgid "Load"
+#~ msgstr "読込"
+#~ msgid "read more"
+#~ msgstr "続きを表示"
+#~ msgid "Default Template"
+#~ msgstr "デフォルトテンプレート"
+#~ msgid "Value Counts rebuilt."
+#~ msgstr "バリューカウントは再構築されました。"
+#~ msgid "Tags rebuilt."
+#~ msgstr "タグは再構築されました。"
+#~ msgid "Options imported."
+#~ msgstr "オプションはインポートされました。"
+#~ msgid "Options resetted."
+#~ msgstr "オプションはリセットされました。"
+#~ msgid "Custom Field Template Options"
+#~ msgstr "カスタムフィールドテンプレートオプション"
+#~ msgid "Template Title"
+#~ msgstr "テンプレートタイトル"
+#~ msgid "Template Instruction"
+#~ msgstr "テンプレートインストラクション"
+#~ msgid "Post Type"
+#~ msgstr "投稿タイプ"
+#~ msgid "Both"
+#~ msgstr "両方"
+#~ msgid "Post"
+#~ msgstr "投稿"
+#~ msgid "Page"
+#~ msgstr "ページ"
+#~ msgid "Template Content"
+#~ msgstr "テンプレートコンテンツ"
+#~ msgid ""
+#~ "In case that you would like to insert multiple images at once in use of "
+#~ "the custom field media buttons"
+#~ msgstr "カスタムフィールへの画像挿入を一度に複数枚実行する場合"
+#~ msgid "Use multiple image inset"
+#~ msgstr "複数画像挿入を利用する"
+#~ msgid "Caution:"
+#~ msgstr "ご注意："
+#~ msgid ""
+#~ "You need to edit `wp-admin/includes/media.php`. Delete or comment out the "
+#~ "code in the function media_send_to_editor."
+#~ msgstr ""
+#~ "`wp-admin/includes/media.php`を編集する必要があります。"
+#~ "media_send_to_editor関数の中身を削除するかコメントアウトしてください。"
+#~ msgid ""
+#~ "In case that you would like to replace custom keys by labels if `label` "
+#~ "is set"
+#~ msgstr ""
+#~ "`label`がセットされていて、カスタムフィールドのキーの代わりにラベルを表示"
+#~ "したい場合"
+#~ msgid "Use labels in place of custom keys"
+#~ msgstr "カスタムフィールドのキーの代わりにラベルを使用する"
+#~ msgid ""
+#~ "In case that you would like to add p and br tags in textareas "
+#~ "automatically"
+#~ msgstr "テキストエリアでpタグ、brタグを自動的に追加したい場合"
+#~ msgid "Use wpautop function"
+#~ msgstr "wpautop関数を使用する"
+#~ msgid ""
+#~ "In case that you would like to save values automatically in switching "
+#~ "templates"
+#~ msgstr "テンプレート切替時自動で保存したい場合"
+#~ msgid "Use the auto save in switching templates"
+#~ msgstr "テンプレート切替時の自動保存を使用する"
+#~ msgid ""
+#~ "In case that you would like to forbid to use the default custom fields."
+#~ msgstr "デフォルトのカスタムフィールドの使用を禁止する場合"
+#~ msgid "Disable the default custom fields"
+#~ msgstr "デフォルトのカスタムフィールドを無効にする"
+#~ msgid "In case that you would like to forbid to use the quick edit."
+#~ msgstr "クイック編集の使用を禁止する場合"
+#~ msgid "Disable the quick edit"
+#~ msgstr "クイック編集を無効にする"
+#~ msgid ""
+#~ "In case that you would like to replace the box title with the template "
+#~ "title."
+#~ msgstr "ボックスタイトルをテンプレートタイトルで置き換える場合"
+#~ msgid "Replace the box title"
+#~ msgstr "ボックスタイトルを置き換える"
+#~ msgid "In case that you would like to use the shortcode in the widget."
+#~ msgstr "ショートコードをウィジェットで使用したい場合"
+#~ msgid "Use the shortcode in the widget"
+#~ msgstr "ショートコードをウィジェットで使用する"
+#~ msgid "ADMIN CSS"
+#~ msgstr "ADMIN CSS"
+#~ msgid "[cft] and [cftsearch] Shortcode Format"
+#~ msgstr "[cft] and [cftsearch] Shortcode Format"
+#~ msgid "For [cft], [key] will be converted into the value of [key]."
+#~ msgstr "[cft]では、[key]は、[key]の値に置換されます。"
+#~ msgid "For [cftsearch], [key] will be converted into the input field."
+#~ msgstr "[cftsearch]では、[key]は、インプットフィールドに置換されます。"
+#~ msgid "Use PHP"
+#~ msgstr "PHPを使用する"
+#~ msgid "PHP CODE (Experimental Option)"
+#~ msgstr "PHP CODE (Experimental Option)"
+#~ msgid "Are you sure to save PHP codes? Please do it at your own risk."
+#~ msgstr "PHPコードを保存してよろしいですか？自己責任で実行してください。"
+#~ msgid "For `text` and `textarea`, you must set $value as an string."
+#~ msgstr "`text`と`textarea`は$valueを文字列としてセットしてください。"
+#~ msgid ""
+#~ "For `checkbox`, `radio`, and `select`, you must set $values as an array."
+#~ msgstr ""
+#~ "`checkbox`、`radio`、`select`では、配列として$valuesをセットしてください。"
+#~ msgid "Auto Hook of `the_content()` (Experimental Option)"
+#~ msgstr "Auto Hook of `the_content()` (Experimental Option)"
+#~ msgid "Position"
+#~ msgstr "位置"
+#~ msgid "Before the conetnt"
+#~ msgstr "コンテンツの前"
+#~ msgid "After the conetnt"
+#~ msgstr "コンテンツの後"
+#~ msgid "Inside the conetnt ([cfthook hook=%d])"
+#~ msgstr "コンテンツの中 （[cfthook hook=%d]）"
+#~ msgid "Content"
+#~ msgstr "コンテンツ"
+#~ msgid "Rebuild Value Counts"
+#~ msgstr "バリューカウントの再構築"
+#~ msgid "Are you sure to rebuild all value counts?"
+#~ msgstr "本当に全てのバリューカウントを再構築しますか？"
+#~ msgid ""
+#~ "Value Counts are used for temporarily saving how many values in each key. "
+#~ "Set `valueCount = true` into fields."
+#~ msgstr ""
+#~ "バリューカウントはキーごとに値がどのくらいあるか一時的に保存するのに使用さ"
+#~ "れます。`valueCount = true`をフィールドにセットしてください。"
+#~ msgid "Rebuild Value Counts &raquo;"
+#~ msgstr "バリューカウントを再構築する &raquo;"
+#~ msgid "Rebuild Tags"
+#~ msgstr "タグの再構築"
+#~ msgid "Are you sure to rebuild tags?"
+#~ msgstr "本当に全てのタグを再構築しますか？"
+#~ msgid "Rebuild Tags &raquo;"
+#~ msgstr "タグを再構築する &raquo;"
+#~ msgid "Option List"
+#~ msgstr "オプションリスト"
+#~ msgid "Export Options"
+#~ msgstr "オプションをエクスポートする"
+#~ msgid "Export Options &raquo;"
+#~ msgstr "オプションをエクスポートする &raquo;"
+#~ msgid "Import Options"
+#~ msgstr "オプションをインポートする"
+#~ msgid "Are you sure to import options? Options you set will be overwritten."
+#~ msgstr ""
+#~ "本当にオプションをインポートしてもよろしいですか？設定したオプションは上書"
+#~ "きされます。"
+#~ msgid "Import Options &raquo;"
+#~ msgstr "オプションをインポートする &raquo;"
+#~ msgid "Reset Options"
+#~ msgstr "オプションをリセットする"
+#~ msgid ""
+#~ "Are you sure to reset options? Options you set will be reset to the "
+#~ "default settings."
+#~ msgstr ""
+#~ "本当にオプションをリセットしてもよろしいですか？設定したオプションはデフォ"
+#~ "ルトの状態に戻ります。"
+#~ msgid "Unset Options &raquo;"
+#~ msgstr "オプションをリセットする &raquo;"
+#~ msgid "Add New"
+#~ msgstr "追加"
+#~ msgid "Clear"
+#~ msgstr "解除"
+#~ msgid "Select"
+#~ msgstr "選択してください"
+#~ msgid "Toggle"
+#~ msgstr "切り替え"
+#~ msgid "Initialize"
+#~ msgstr "初期化"
+#~ msgid "Are you sure to reset current values? Default values will be loaded."
+#~ msgstr "現在値をリセットしてもよろしいですか？初期値が読み込まれます。"
+#~ msgid "Save"
+#~ msgstr "保存"
+#~ msgid "Search &raquo;"
+#~ msgstr "検索 &raquo;"
+#~ msgid "CSS"
+#~ msgstr "CSS"
+#~ msgid "Quick Edit"
+#~ msgstr "クイック編集"
+#~ msgid "Recent Posts Ext"
+#~ msgstr "最近の投稿 Ext"
+#~ msgid "camera"
+#~ msgstr "機種"
+#~ msgid "aperture"
+#~ msgstr "絞り値"
+#~ msgid "focal_length"
+#~ msgstr "焦点距離"
+#~ msgid "ISO"
+#~ msgstr "ISO"
+#~ msgid "shutter_speed"
+#~ msgstr "シャッタースピード"
+#~ msgid "created_timestamp"
+#~ msgstr "撮影日時"
+

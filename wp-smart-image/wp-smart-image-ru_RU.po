@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Smart Image\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-07-08 10:27-0400\n"
+"PO-Revision-Date: 2009-07-09 18:57+0200\n"
+"Last-Translator: Fat Cow <zhr@tut.by>\n"
+"Language-Team: Fat Cow <zhr@tut.by>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: wp-smart-image\n"
+
+#: wp-smart-image/wp-smart-image.php:50
+#: wp-smart-image/wp-smart-image.php:171
+msgid "WP Smart Image"
+msgstr "WP Smart Image"
+
+#: wp-smart-image/wp-smart-image.php:64
+msgid "Options updated"
+msgstr "Настройки обновлены"
+
+#: wp-smart-image/wp-smart-image.php:69
+msgid "WP Smart Image Options"
+msgstr "Настройки WP Smart Image"
+
+#: wp-smart-image/wp-smart-image.php:71
+msgid "Settings"
+msgstr "Настройки"
+
+#: wp-smart-image/wp-smart-image.php:72
+msgid "Parameters"
+msgstr "Параметры"
+
+#: wp-smart-image/wp-smart-image.php:73
+msgid "About"
+msgstr "Обо мне"
+
+#: wp-smart-image/wp-smart-image.php:78
+msgid "Replacement images"
+msgstr "Картинка для замены"
+
+#: wp-smart-image/wp-smart-image.php:79
+msgid "Replacement image path"
+msgstr "Пут к картинке для замены"
+
+#: wp-smart-image/wp-smart-image.php:81
+msgid "Change this path if you like to custom image folder location."
+msgstr "Выберите этот путь, если вы хотите выбрать картинку к папке"
+
+#: wp-smart-image/wp-smart-image.php:84
+msgid "Replacement image for thumbnail size"
+msgstr "Картинка для замены превью"
+
+#: wp-smart-image/wp-smart-image.php:86
+msgid "Set thumbnail filename to show in case it not exists one on your post."
+msgstr "Установить имя превью для показа в случае, если такового нет в посте"
+
+#: wp-smart-image/wp-smart-image.php:89
+msgid "Replacement image for medium size"
+msgstr "Картинка для замены среднего изображения"
+
+#: wp-smart-image/wp-smart-image.php:91
+msgid "Set medium size filename to show in case it not exists one on your post."
+msgstr "Установить имя среднего изображения для показа в случае, если такового нет в посте"
+
+#: wp-smart-image/wp-smart-image.php:95
+msgid "Replacement image for large size"
+msgstr "Картинка для замены большого размера"
+
+#: wp-smart-image/wp-smart-image.php:97
+msgid "Set large size filename to show in case it not exists one on your post."
+msgstr "Установить имя большого изображения для показа в случае, если такового нет в посте"
+
+#: wp-smart-image/wp-smart-image.php:100
+msgid "Replacement image for full size"
+msgstr "Картинка для замены полного размера"
+
+#: wp-smart-image/wp-smart-image.php:102
+msgid "Set full size filename to show in case it not exists one on your post."
+msgstr "Установить имя оригинального изображения для показа в случае, если такового нет в посте"
+
+#: wp-smart-image/wp-smart-image.php:107
+msgid "Default alternate text"
+msgstr "Стандартный альтернативный текст"
+
+#: wp-smart-image/wp-smart-image.php:108
+msgid "Default ALT attribute text:"
+msgstr "Стандартный текст для ALT атрибута"
+
+#: wp-smart-image/wp-smart-image.php:110
+msgid "This string will show with <strong>\"alt\"</strong> attribute in case you have been not assigned one through your image panel."
+msgstr "Эта строка должна показываться с атрибутом <strong>\"alt\"</strong> в случае, если вы не назначили через панел изображений"
+
+#: wp-smart-image/wp-smart-image.php:111
+msgid "Default TITLE attribute text:"
+msgstr "Стандартный атрибут TITLE  для текста:"
+
+#: wp-smart-image/wp-smart-image.php:113
+msgid "This string will show with <strong>\"title\"</strong> attribute in case you have been not assigned one through your image panel."
+msgstr "Эта строка должна показываться с атрибутом <strong>\"title\"</strong> в случае, если вы не назначили через панел изображений"
+
+#: wp-smart-image/wp-smart-image.php:115
+msgid "Update options &raquo;"
+msgstr "Обновить настройки &raquo;"
+
+#: wp-smart-image/wp-smart-image.php:119
+msgid "Managing data"
+msgstr "Управление данными"
+
+#: wp-smart-image/wp-smart-image.php:120
+msgid "<span class=\"aviso\">Warning!</span> If you click the wrong button, you will loose all you have been set manually."
+msgstr "<span class=\"aviso\">Внимание!</span> Если вы нажмете не ту кнопку, вы потеряете все то, что самостоятельно настроили."
+
+#: wp-smart-image/wp-smart-image.php:122
+msgid "Remove plugin database info"
+msgstr "Удалить информацию о плагине из базы данных"
+
+#: wp-smart-image/wp-smart-image.php:122
+msgid "Sure you want remove plugin database entry?"
+msgstr "Вы действительно хотите удалить информацию о планине из базы данных?"
+
+#: wp-smart-image/wp-smart-image.php:122
+msgid "Remove data"
+msgstr "Удалить данные"
+
+#: wp-smart-image/wp-smart-image.php:123
+msgid "Populate/Restore plugin database info"
+msgstr "Заполнить/восстановить информацию о плагине в базе данных"
+
+#: wp-smart-image/wp-smart-image.php:123
+msgid "Sure you want populate plugin database entry with default data?"
+msgstr "Вы уверены, что хотите заменить имеющиеся настройки стандартными?"
+
+#: wp-smart-image/wp-smart-image.php:123
+msgid "Populate/Restore data"
+msgstr "Заполнить/Восстановить данные"
+
+#: wp-smart-image/wp-smart-image.php:131
+msgid "Parameters with examples"
+msgstr "Параметры с примерами"
+
+#: wp-smart-image/wp-smart-image.php:132
+msgid "Image sizes:"
+msgstr "Размеры изображения:"
+
+#: wp-smart-image/wp-smart-image.php:133
+msgid "Default setting - Thumbnail, linked to post <span class=\"wpsi-normal\">(Same behavior if you add both \"$size=&#39;mini&#39;\" and \"$type=&#39;link&#39;\")</span>:"
+msgstr "Стандартная настройка - превью, прикрепленное к посту <span class=\"wpsi-normal\">(Определенное поведение, если вы добавите оба \"$size=&#39;mini&#39;\" и \"$type=&#39;link&#39;\")</span>:"
+
+#: wp-smart-image/wp-smart-image.php:134
+#: wp-smart-image/wp-smart-image.php:136
+#: wp-smart-image/wp-smart-image.php:138
+#: wp-smart-image/wp-smart-image.php:140
+#: wp-smart-image/wp-smart-image.php:142
+#: wp-smart-image/wp-smart-image.php:146
+#: wp-smart-image/wp-smart-image.php:148
+#: wp-smart-image/wp-smart-image.php:150
+#: wp-smart-image/wp-smart-image.php:152
+#: wp-smart-image/wp-smart-image.php:154
+#: wp-smart-image/wp-smart-image.php:158
+#: wp-smart-image/wp-smart-image.php:160
+msgid "Click to select code"
+msgstr "Нажмите для выбора кода"
+
+#: wp-smart-image/wp-smart-image.php:135
+msgid "Thumbnail image. This is the default \"$size\" behavior. Link to post assigned by default too:"
+msgstr "Превью. Это стандартное \"$size\" поведение. Ссылка к посту также назначена по умолчнию:"
+
+#: wp-smart-image/wp-smart-image.php:137
+msgid "Medium size image, linked to post:"
+msgstr "Изображение среднего размера, связанное с постом:"
+
+#: wp-smart-image/wp-smart-image.php:139
+msgid "Large size image, linked to post:"
+msgstr "Изображение большого размера, связанное с постом:"
+
+#: wp-smart-image/wp-smart-image.php:141
+msgid "Original size image, linked to post:"
+msgstr "Изображение оригинального размера, связанное с постом:"
+
+#: wp-smart-image/wp-smart-image.php:144
+msgid "Combo examples:"
+msgstr "Комбинированные примеры:"
+
+#: wp-smart-image/wp-smart-image.php:145
+msgid "Image linked to post. This is the default \"$type\" behavior. Thumbnail assigned by default too:"
+msgstr "Изображение, связанное с постом. Это стандартное \"$type\" поведение. превью наначено по умолчанию:"
+
+#: wp-smart-image/wp-smart-image.php:147
+msgid "Thumbnail, no link:"
+msgstr "Превью, без ссылки:"
+
+#: wp-smart-image/wp-smart-image.php:149
+msgid "Only image URL, medium size:"
+msgstr "Только УРЛ изображения, без ссылки:"
+
+#: wp-smart-image/wp-smart-image.php:151
+msgid "Thumbnail, linked to original image:"
+msgstr "Превью, связанное с оригиналом:"
+
+#: wp-smart-image/wp-smart-image.php:153
+msgid "Adding custom CSS styles:"
+msgstr "Добавить CSS-стиль"
+
+#: wp-smart-image/wp-smart-image.php:156
+msgid "Some useful examples:"
+msgstr "Некоторые примеры:"
+
+#: wp-smart-image/wp-smart-image.php:157
+msgid "Setting a dynamic CSS background:"
+msgstr "Настройки CSS для динамического фона:"
+
+#: wp-smart-image/wp-smart-image.php:159
+msgid "Setting MEDIUM SIZE image and respective FULL SIZE url code below it &#40;ImageShack style&#41;:"
+msgstr "Настройка СРЕДНЕЕ ИЗОБРАЖЕНИЕ соответствует ОРИГИНАЛЬНОМУ ИЗОБРАЖЕНИЮ в коде &#40;ImageShack style&#41;:"
+
+#: wp-smart-image/wp-smart-image.php:171
+msgid "Essential resource for web designers"
+msgstr "Фундаментальные ресурсы для веб-дизайнеров:"
+
+#: wp-smart-image/wp-smart-image.php:173
+msgid "With WP Smart Image you can:"
+msgstr "С помощью WP Smart Image вы можете:"
+
+#: wp-smart-image/wp-smart-image.php:175
+msgid "Choose the image to show."
+msgstr "Выберите изображение для показа:"
+
+#: wp-smart-image/wp-smart-image.php:176
+msgid "Choose between the four presets WordPress sizes: Thumbnail, Medium, Large and Full."
+msgstr "Выберите между четырьмя размерами: превью, средний, большой и полный. "
+
+#: wp-smart-image/wp-smart-image.php:177
+msgid "Link the image to the article or leave it without a link."
+msgstr "Ссылка на изображение статьи или оставьте без ссылки"
+
+#: wp-smart-image/wp-smart-image.php:178
+msgid "Showing images in the posts list, even if those images are not setting to appear in the content."
+msgstr "Показ изображений в списке постов, если каждое изображение не установлено в содержании"
+
+#: wp-smart-image/wp-smart-image.php:179
+msgid "Get the image url instead of the whole tag."
+msgstr "Получить УРЛ на изображение вместо тэга"
+
+#: wp-smart-image/wp-smart-image.php:180
+msgid "Personalize the alt and title attributes if they haven&#39;t been configured already."
+msgstr "Персонализировать атрибуты alt и title, если они уже не настроены."
+
+#: wp-smart-image/wp-smart-image.php:181
+msgid "Add custom CSS classes and ID to properly handling the images through CSS, javascript, PHP and others web resources."
+msgstr "Добавить CSS классы и ID для правильной обработки изображений посредством CSS, javascript, PHP и др."
+
+#: wp-smart-image/wp-smart-image.php:182
+msgid "Add a link to the full version of the image from the thumbnail or the medium size one."
+msgstr "Добавить ссылку на полную версию изображения через превью или среднее изображение."
+
+#: wp-smart-image/wp-smart-image.php:183
+msgid "Personalize the generic images and its paths for all the sizes."
+msgstr "Персонализировать общие изображения и их пути для всех картинок. "
+
+#: wp-smart-image/wp-smart-image.php:185
+msgid "How to configure your images to be displayed:"
+msgstr "Как настроить ваши изображения для отображения:"
+
+#: wp-smart-image/wp-smart-image.php:187
+msgid "Upload the images through your edition panel (required for database file association)."
+msgstr "Загрузка изображения через панель редактирования"
+
+#: wp-smart-image/wp-smart-image.php:188
+msgid "In the Gallery section, drag the image you want to show to the first position, then it will be in the cover, even if you don&#39;t use it in the content."
+msgstr "В секции Галерея, перетяните иображение, которое вы хотите видет на первой позиции. Оно будет обложкой. "
+
+#: wp-smart-image/wp-smart-image.php:189
+msgid "That&#39;s it."
+msgstr "Что&#39;s это."
+
+#: wp-smart-image/wp-smart-image.php:191
+msgid "Get support"
+msgstr "Получит поддержку"
+
+#: wp-smart-image/wp-smart-image.php:192
+msgid "WP Smart Image main site"
+msgstr "Сайт WP Smart Image"
+
+#: wp-smart-image/wp-smart-image.php:193
+msgid "Support:"
+msgstr "Поддержка:"
+
+#: wp-smart-image/wp-smart-image.php:193
+msgid "Spanish support"
+msgstr "Испанская поддержка:"
+
+#: wp-smart-image/wp-smart-image.php:193
+msgid "English support"
+msgstr "Англоязычная поддержка:"
+
+#: wp-smart-image/wp-smart-image.php:194
+msgid "Testing background image courtesy by: Svilen Mushkatov"
+msgstr "Тестирование фонового изображения: Svilen Mushkatov"
+
+#: wp-smart-image/wp-smart-image.php:197
+msgid "They have been collaborated on this project"
+msgstr "Они участвуют в этом проекте"
+
+#: wp-smart-image/wp-smart-image.php:198
+msgid "Translating revision for version 0.1.1:"
+msgstr "Ревизия переводов 0.1.1:"
+
+#: wp-smart-image/wp-smart-image.php:199
+msgid "Hard heuristic plugin testing:"
+msgstr "Тестирование плагина:"
+
+#: wp-smart-image/wp-smart-image.php:199
+msgid "My grandma."
+msgstr "Моя бабушка."
+
+#: wp-smart-image/wp-smart-image.php:200
+msgid "Coffee and cakes:"
+msgstr "Кофе и торты:"
+
+#: wp-smart-image/wp-smart-image.php:202
+msgid "Thank you!:"
+msgstr "Спасибо!"
+
+#: wp-smart-image/wp-smart-image.php:203
+msgid "To"
+msgstr " "
+
+#: wp-smart-image/wp-smart-image.php:203
+msgid "for his valuable achievements for the webmasters community, and for being a true example to be followed in this area"
+msgstr "за их ценные достижения в вебмастерских кругах"
+
+#: wp-smart-image/wp-smart-image.php:203
+msgid "for their constant support and friendship, and for being my teacher in CSS"
+msgstr "за их постоянную поддержку и дружбу и обучение CSS"
+
+#: wp-smart-image/wp-smart-image.php:203
+msgid "Spain"
+msgstr "Испания"
+
+#: wp-smart-image/wp-smart-image.php:203
+msgid "because her represents my first start in the web development area. To me your vote worth quad"
+msgstr "Мне вы можете поставить четверку."
+
+#: wp-smart-image/wp-smart-image.php:203
+msgid "Mexico"
+msgstr "Мексика"
+
+#: wp-smart-image/wp-smart-image.php:203
+msgid "compadre, my brother from life and strict Linux teacher =P"
+msgstr "комрад, мой брат и строгий учитель Linux'у"
+
+#: wp-smart-image/wp-smart-image.php:203
+msgid "respectable abducted javascripter, and even more respectable friend"
+msgstr "порядочный похищенный яваскриптер и еще лучший друг"
+
+#: wp-smart-image/wp-smart-image.php:204
+msgid "This first plugin release is dedicated to the memory of <strong>Enrique33</strong>."
+msgstr "Первый релиз посвящаю памяти <strong>Enrique33</strong>."
+
+#: wp-smart-image/wp-smart-image.php:247
+msgid "Article image"
+msgstr "Изображение к статье"
+
+#: wp-smart-image/wp-smart-image.php:248
+msgid "Go to article"
+msgstr "Перейти к статье"
+

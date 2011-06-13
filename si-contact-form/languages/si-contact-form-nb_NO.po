@@ -1,0 +1,484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: si-contact-form\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/si-contact-form\n"
+"POT-Creation-Date: 2009-08-27 17:15+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Roger Sylte <roger@inro.net>\n"
+"Language-Team: Roger Sylte <roger@inro.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Norwegian Bokmal\n"
+"X-Poedit-Country: NORWAY\n"
+
+#: si-contact-form.php:34
+msgid "SI Contact Form Options"
+msgstr "Innstillinger for SI Contact Form"
+
+#: si-contact-form.php:62
+msgid "<p>Comments or questions are welcome.</p>"
+msgstr "<p>Kom gjerne med kommentarer og spørsmål.</p>"
+
+#: si-contact-form.php:63
+#: si-contact-form.php:229
+#: si-contact-form.php:422
+msgid "Webmaster"
+msgstr "Webmaster"
+
+#: si-contact-form.php:96
+msgid "You do not have permissions for managing this option"
+msgstr "Du har ikke rettigheter til å gjøre endringer for denne innstillingen"
+
+#: si-contact-form.php:164
+msgid "Options saved."
+msgstr "Innstillingene er lagret."
+
+#: si-contact-form.php:167
+msgid "Fast and Secure Contact Form Options"
+msgstr "Innstillinger for Fast and Secure Contact Form"
+
+#: si-contact-form.php:179
+msgid "Donate"
+msgstr "Donèr"
+
+#: si-contact-form.php:190
+msgid "If you find this plugin useful to you, please consider making a small donation to help contribute to further development. Thanks for your kind support!"
+msgstr "Vennligst vurder en liten donasjon dersom du bruker denne utvidelsen, det vil være til god hjelp med tanke på videre utvikling. Tusen takk for din støtte!"
+
+#: si-contact-form.php:194
+msgid "Usage"
+msgstr "Bruk"
+
+#: si-contact-form.php:196
+msgid "You must add the shortcode <b>[si_contact_form]</b> in a Page. That page will become your Contact Form"
+msgstr "Du må legge til kortkoden <b>[si_contact_form]</b> på en side. Den siden vil bli kontaktskjemaet ditt"
+
+#: si-contact-form.php:199
+msgid "Options"
+msgstr "Innstillinger"
+
+#: si-contact-form.php:211
+msgid "Form:"
+msgstr "Skjema:"
+
+#: si-contact-form.php:213
+msgid "Welcome introduction"
+msgstr "Velkomstintroduksjon"
+
+#: si-contact-form.php:215
+#: si-contact-form.php:249
+#: si-contact-form.php:258
+#: si-contact-form.php:265
+#: si-contact-form.php:287
+#: si-contact-form.php:294
+#: si-contact-form.php:301
+#: si-contact-form.php:331
+#: si-contact-form.php:352
+#: si-contact-form.php:360
+#: si-contact-form.php:368
+msgid "Click for Help!"
+msgstr "Klikk for Hjelp!"
+
+#: si-contact-form.php:215
+#: si-contact-form.php:249
+#: si-contact-form.php:258
+#: si-contact-form.php:265
+#: si-contact-form.php:287
+#: si-contact-form.php:294
+#: si-contact-form.php:301
+#: si-contact-form.php:331
+#: si-contact-form.php:352
+#: si-contact-form.php:360
+#: si-contact-form.php:368
+msgid "help"
+msgstr "hjelp"
+
+#: si-contact-form.php:217
+msgid "This gets printed when the contact form is first presented. It is not printed when there is an input error and not printed after the form is completed."
+msgstr "Dette vises når kontaktskjemaet vises for første gang. Det vises ikke når det er en feil i ett felt, og ikke etter at skjemaet er ferdig utfylt og sendt inn."
+
+#: si-contact-form.php:222
+msgid "E-mail:"
+msgstr "E-post:"
+
+#: si-contact-form.php:241
+msgid "E-mail To"
+msgstr "E-post til"
+
+#: si-contact-form.php:244
+#: si-contact-form.php:812
+msgid "ERROR: Misconfigured E-mail address in options."
+msgstr "FEIL: Ugyldig e-postadresse i innstillingene."
+
+#: si-contact-form.php:251
+msgid "E-mail address the messages are sent to (your email). Add as many contacts as you need, the drop down list on the contact form will be made automatically. Each contact has a name and an email address separated by a comma. Separate each contact by pressing enter. If you need to add more than one contact, follow this example:"
+msgstr "E-postadressen som meldingen blir sendt til (din e-postadresse). Legg til så mange kontakter som du trenger. Nedtrekkslisten i kontaktskjemaet lages automatisk. Hver kontakt har navn og e-postadresse, adskilt med komma. Kontakter skilles på hver sin linje. Følg eksempelet under hvis du trenger å legge inn flere enn en kontakt:"
+
+#: si-contact-form.php:257
+msgid "E-mail From (optional)"
+msgstr "E-post Fra (valgfri)"
+
+#: si-contact-form.php:260
+msgid "E-mail address the messages are sent from. Normally you should leave this blank. Some web hosts do not allow PHP to send E-mail unless the \"From:\" E-mail address is on the same web domain. If your contact form does not send any E-mail, then set this to an E-mail address on the SAME domain as your web site as a possible fix."
+msgstr "E-postadressen som meldingene sendes fra. Vanligvis bør du la dette feltet være tomt. Noen webservere tillater ikke at PHP sender e-post uten at fra-e-postadressen har samme domenenavn som webserveren. Sett dette feltet til en e-postadresse med samme domene som webserveren hvis kontaktskjemaet ikke sender e-post."
+
+#: si-contact-form.php:264
+msgid "E-mail Bcc (optional)"
+msgstr "E-post Bcc (valgfri)"
+
+#: si-contact-form.php:267
+msgid "E-mail address(s) to receive Bcc (Blind Carbon Copy) messages. You can send to multiple or single, both methods are acceptable:"
+msgstr "E-postadresse(r) som skal motta Bcc-meldinger (Blindkopimeldinger). Du kan sende til en eller flere, begge metodene er akseptable:"
+
+#: si-contact-form.php:274
+msgid "Enable double E-mail entry required on contact form."
+msgstr "Krev repetert inntasting av e-postadresse på kontaktskjema."
+
+#: si-contact-form.php:277
+msgid "Enable Form Post security by requiring domain name match for"
+msgstr "Aktiver sikkerhet for skjemainnsending ved å kreve at domenenavn stemmer med"
+
+#: si-contact-form.php:282
+msgid "(recommended)."
+msgstr "(anbefalt)."
+
+#: si-contact-form.php:286
+msgid "E-mail header field: language"
+msgstr "Felt i e-posthode: språk"
+
+#: si-contact-form.php:289
+#: si-contact-form.php:296
+#: si-contact-form.php:303
+msgid "Do not change unless you have good reason to."
+msgstr "Unngå å endre med mindre du har en god grunn for det."
+
+#: si-contact-form.php:293
+msgid "E-mail header field: charset"
+msgstr "Felt i e-posthode: tegnsett"
+
+#: si-contact-form.php:300
+msgid "E-mail header field: encoding"
+msgstr "Felt i e-posthode: tegnkoding"
+
+#: si-contact-form.php:310
+msgid "CAPTCHA:"
+msgstr "CAPTCHA:"
+
+#: si-contact-form.php:313
+msgid "Enable CAPTCHA (recommended)."
+msgstr "Skru på CAPTCHA (anbefalt)."
+
+#: si-contact-form.php:316
+msgid "Hide CAPTCHA for"
+msgstr "Skjul CAPTCHA for"
+
+#: si-contact-form.php:317
+msgid "registered"
+msgstr "registrerte"
+
+#: si-contact-form.php:317
+msgid "users who can"
+msgstr "brukere som kan"
+
+#: si-contact-form.php:320
+msgid "Test if your PHP installation will support the CAPTCHA"
+msgstr "Sjekk om PHP-installasjonen din støtter CAPTCHA"
+
+#: si-contact-form.php:325
+msgid "Redirect:"
+msgstr "Omdirigering:"
+
+#: si-contact-form.php:328
+msgid "Enable redirect after the message sends"
+msgstr "Skru på omdirigering etter at meldingen er sendt"
+
+#: si-contact-form.php:330
+msgid "Redirect URL"
+msgstr "Omdirigerings-URL"
+
+#: si-contact-form.php:333
+msgid "After a user sends a message, the web browser will display \"message sent\" for 5 seconds, then redirect to this URL."
+msgstr "Etter at en bruker sender en melding vil webleseren vise meldingen \"Melding sendt\" i 5 sekunder, deretter omdirigeres den til omdirigerings-URL-en."
+
+#: si-contact-form.php:340
+msgid "Style:"
+msgstr "Tema:"
+
+#: si-contact-form.php:344
+msgid "Enable border on contact form"
+msgstr "Vis ramme på kontaktskjema"
+
+#: si-contact-form.php:347
+msgid "CSS style for form input titles on the contact form"
+msgstr "CSS stil for tittel til skjemafelt i kontaktskjemaet"
+
+#: si-contact-form.php:348
+msgid "CSS style for form input fields on the contact form"
+msgstr "CSS stil for felter i kontaktskjemaet"
+
+#: si-contact-form.php:349
+msgid "CSS style for form input errors on the contact form"
+msgstr "CSS stil for feilmeldinger i kontaktskjemaet"
+
+#: si-contact-form.php:351
+msgid "Input Text Field Size"
+msgstr "Størrelse på tekstfelt"
+
+#: si-contact-form.php:354
+msgid "Use to adjust the size of the contact form text input fields."
+msgstr "Bruk for å justere størrelsen på feltene i kontaktskjemaet."
+
+#: si-contact-form.php:358
+msgid "Input Textarea Field Cols"
+msgstr "Antall kolonner i tekstfelter"
+
+#: si-contact-form.php:359
+msgid "Rows"
+msgstr "rader"
+
+#: si-contact-form.php:362
+msgid "Use to adjust the size of the contact form message textarea."
+msgstr "Bruk for å justere størrelsen på meldingstekstfeltet i kontaktskjemaet."
+
+#: si-contact-form.php:367
+msgid "Enable aria-required tags for screen readers"
+msgstr "Aktiver aria-påkrevde koder (tags) for screen readers"
+
+#: si-contact-form.php:370
+msgid "aria-required is a form input WAI ARIA tag. Screen readers use it to determine which fields are required. Enabling this is good for accessability, but will cause the HTML to fail the W3C Validation (there is no attribute \"aria-required\"). WAI ARIA attributes are soon to be accepted by the HTML validator, so you can safely ignore the validation error it will cause."
+msgstr "Aria-påkrevde koder (tags) er WAI ARIA skjemakoder (tags) som blir brukt av skjermlesere (screen readers). Å aktivere denne funksjonen forbedrer tilgangen på websiden, men fører også til at siden ikke valideres i W3C-validatoren (det finnes ikke en attributt \"aria-required\"). WAI ARIA attributtene vil i nær fremtid aksepteres av HTML-validatoren, så du kan trygt ignorere feilene attributtene medfører."
+
+#: si-contact-form.php:380
+msgid "Update Options"
+msgstr "Oppdater Innstillinger"
+
+#: si-contact-form.php:390
+msgid "All registered users"
+msgstr "Alle registrerte brukere"
+
+#: si-contact-form.php:391
+msgid "Edit posts"
+msgstr "Rediger innlegg"
+
+#: si-contact-form.php:392
+msgid "Publish Posts"
+msgstr "Publiser innlegg"
+
+#: si-contact-form.php:393
+msgid "Moderate Comments"
+msgstr "Moderer kommentarer"
+
+#: si-contact-form.php:394
+msgid "Administer site"
+msgstr "Administrere nettsted"
+
+#: si-contact-form.php:506
+msgid "Your message has been sent, thank you."
+msgstr "Takk, meldingen har blitt sendt."
+
+#: si-contact-form.php:535
+#: si-contact-form.php:536
+msgid "Redirecting"
+msgstr "Omdirigerer"
+
+#: si-contact-form.php:583
+msgid "Selecting a contact is required."
+msgstr "Du må velge en kontakt."
+
+#: si-contact-form.php:587
+msgid "Requested Contact not found."
+msgstr "Valgt kontakt ikke funnet."
+
+#: si-contact-form.php:620
+#: si-contact-form.php:683
+msgid "Contact Form has Invalid Input"
+msgstr "Kontaktskjema har ugyldige data"
+
+#: si-contact-form.php:625
+msgid "Your IP is Banned"
+msgstr "Din IP er sperret."
+
+#: si-contact-form.php:635
+msgid "Your name is required."
+msgstr "Ditt navn er påkrevd."
+
+#: si-contact-form.php:639
+#: si-contact-form.php:643
+msgid "A proper e-mail address is required."
+msgstr "En gyldig e-postadresse er påkrevd."
+
+#: si-contact-form.php:647
+msgid "The two e-mail addresses did not match, please enter again."
+msgstr "De to e-postadressene er ikke like, vennligst prøv igjen."
+
+#: si-contact-form.php:651
+msgid "Subject text is required."
+msgstr "Emne er påkrevd."
+
+#: si-contact-form.php:655
+msgid "Message text is required."
+msgstr "Meldingstekst er påkrevd."
+
+#: si-contact-form.php:694
+msgid "Could not read CAPTCHA cookie. Make sure you have cookies enabled and not blocking in your web browser settings. Or another plugin is conflicting. See plugin FAQ."
+msgstr "Greide ikke å lese CAPTCHA cookie. Sørg for at du ikke blokkerer cookies i innstillingene for webleseren. Kan også være konflikt med et annet innstikk. Se FAQ for innstikk."
+
+#: si-contact-form.php:698
+msgid "Please complete the CAPTCHA."
+msgstr "Vennligst fullfør CAPTCHA."
+
+#: si-contact-form.php:708
+msgid "That CAPTCHA was incorrect."
+msgstr "CAPTCHA var feil."
+
+#: si-contact-form.php:720
+msgid "contact"
+msgstr "kontakt"
+
+#: si-contact-form.php:722
+msgid "Sent from"
+msgstr "Sent fra"
+
+#: si-contact-form.php:722
+msgid "contact form"
+msgstr "kontaktskjema"
+
+#: si-contact-form.php:724
+msgid "To"
+msgstr "Til"
+
+#: si-contact-form.php:726
+msgid "From"
+msgstr "Fra"
+
+#: si-contact-form.php:730
+#: si-contact-form.php:897
+msgid "Message"
+msgstr "Melding"
+
+#: si-contact-form.php:739
+msgid "Sent from (ip address)"
+msgstr "Sent fra (IP-adresse)"
+
+#: si-contact-form.php:740
+msgid "Coming from (referer)"
+msgstr "Kommer fra (referent)"
+
+#: si-contact-form.php:741
+msgid "Using (user agent)"
+msgstr "Bruker (user agent)"
+
+#: si-contact-form.php:804
+msgid "Contact Form"
+msgstr "Kontaktskjema"
+
+#: si-contact-form.php:809
+msgid "INPUT ERROR: Please make corrections below and try again."
+msgstr "INNTASTINGSFEIL: Vennligst gjør endringer i feltene med feil og prøv igjen."
+
+#: si-contact-form.php:818
+msgid "Department to Contact"
+msgstr "Avdeling som skal kontaktes"
+
+#: si-contact-form.php:824
+msgid "Select"
+msgstr "Velg"
+
+#: si-contact-form.php:851
+msgid "Name"
+msgstr "Navn"
+
+#: si-contact-form.php:859
+#: si-contact-form.php:877
+msgid "E-Mail Address"
+msgstr "E-postadresse"
+
+#: si-contact-form.php:866
+msgid "E-Mail Address again"
+msgstr "E-postadresse igjen"
+
+#: si-contact-form.php:870
+msgid "Please enter your E-mail Address a second time."
+msgstr "Vennligst tast inn e-postadressen en andre gang."
+
+#: si-contact-form.php:887
+msgid "Subject"
+msgstr "Emne"
+
+#: si-contact-form.php:914
+msgid "submit"
+msgstr "send inn"
+
+#: si-contact-form.php:956
+msgid "ERROR: si-contact-form.php plugin says GD image support not detected in PHP!"
+msgstr "FEIL: si-contact-form.php innstikk sier at GD bildestøtte ikke funnet i PHP!"
+
+#: si-contact-form.php:957
+msgid "Contact your web host and ask them why GD image support is not enabled for PHP."
+msgstr "Kontakt din leverandør av websider og spør dem om hvorfor GD bildestøtte ikke er aktivert for PHP."
+
+#: si-contact-form.php:961
+msgid "ERROR: si-contact-form.php plugin says imagepng function not detected in PHP!"
+msgstr "FEIL: si-contact-form.php innstikk sier at funksjonen imagepng ikke ble funnet i PHP!"
+
+#: si-contact-form.php:962
+msgid "Contact your web host and ask them why imagepng function is not enabled for PHP."
+msgstr "Kontakt din leverandør av websider og spør dem om hvorfor støtte for funksjonen imagepng ikke er aktivert i PHP."
+
+#: si-contact-form.php:966
+msgid "ERROR: si-contact-form.php plugin says captcha_library not found."
+msgstr "FEIL: si-contact-form.php innstikk sier captcha_library ikke funnet."
+
+#: si-contact-form.php:985
+msgid "CAPTCHA Code"
+msgstr "CAPTCHA Kode"
+
+#: si-contact-form.php:994
+msgid "CAPTCHA Image"
+msgstr "CAPTCHA Bilde"
+
+#: si-contact-form.php:995
+msgid "Audible Version of CAPTCHA"
+msgstr "Lydversjon av CAPTCHA"
+
+#: si-contact-form.php:996
+msgid "Audio Version"
+msgstr "Lydversjon"
+
+#: si-contact-form.php:998
+msgid "Refresh Image"
+msgstr "Frisk Opp Bilde"
+
+#: si-contact-form.php:1000
+msgid "Reload Image"
+msgstr "Last Bilde På Nytt"
+
+#: si-contact-form.php:1016
+msgid "ERROR"
+msgstr "FEIL"
+
+#: si-contact-form.php:1184
+msgid "Settings"
+msgstr "Innstillinger"
+
+#. Plugin Name of an extension
+msgid "Fast and Secure Contact Form"
+msgstr "Raskt og Sikkert Kontaktskjema"
+
+#. Plugin URI of an extension
+msgid "http://www.642weather.com/weather/scripts-wordpress-si-contact.php"
+msgstr "http://www.642weather.com/weather/scripts-wordpress-si-contact.php"
+
+#. Description of an extension
+msgid "Fast and Secure Contact Form for WordPress. The contact form lets your visitors send you a quick email message. Blocks all common spammer tactics. Spam is no longer a problem. Includes a CAPTCHA and Akismet. Does not require JavaScript. <a href=\"plugins.php?page=si-contact-form/si-contact-form.php\">Settings</a> | <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6105441\">Donate</a>"
+msgstr "Raskt og Sikkert Kontaktskjema for WordPress. Kontaktskjemaet lar besøkende på dine websider sende deg en rask e-postmelding. Blokkerer alle kjente spam-taktikker. Spam er ikke lenger ett problem. Inkluderer CAPCHA og Askimet. Krever ikke JavaScript. <a href=\"plugins.php?page=si-contact-form/si-contact-form.php\">Innstillinger</a> | <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6105441\">Donèr</a>"
+
+#. Author of an extension
+msgid "Mike Challis"
+msgstr "Mike Challis"
+
+#. Author URI of an extension
+msgid "http://www.642weather.com/weather/scripts.php"
+msgstr "http://www.642weather.com/weather/scripts.php"
+

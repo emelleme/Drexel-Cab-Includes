@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Smart Image v0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-07-15 17:10+0200\n"
+"Last-Translator: admin <nitraxer@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: wp-smart-image.php:53
+#: wp-smart-image.php:358
+#@ wp-smart-image
+msgid "WP Smart Image"
+msgstr "WP Smart Image"
+
+#: wp-smart-image.php:69
+#@ wp-smart-image
+msgid "Options updated"
+msgstr "Options enregistrées."
+
+#: wp-smart-image.php:74
+#@ wp-smart-image
+msgid "WP Smart Image Options"
+msgstr "Options générales"
+
+#: wp-smart-image.php:76
+#@ wp-smart-image
+msgid "Settings"
+msgstr "Réglages"
+
+#: wp-smart-image.php:77
+#: wp-smart-image.php:136
+#@ wp-smart-image
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: wp-smart-image.php:78
+#@ wp-smart-image
+msgid "About"
+msgstr "À Propos"
+
+#: wp-smart-image.php:83
+#@ wp-smart-image
+msgid "Replacement images"
+msgstr "Remplacement des images"
+
+#: wp-smart-image.php:84
+#@ wp-smart-image
+msgid "Replacement image path"
+msgstr "Remplacement du dossier des images"
+
+#: wp-smart-image.php:86
+#@ wp-smart-image
+msgid "Change this path if you like to custom image folder location."
+msgstr "Modifiez ce chemin si vous souhaitez personnaliser l'emplacement des images."
+
+#: wp-smart-image.php:89
+#@ wp-smart-image
+msgid "Replacement image for thumbnail size"
+msgstr "Remplacement des vignettes."
+
+#: wp-smart-image.php:91
+#@ wp-smart-image
+msgid "Set thumbnail filename to show in case it not exists one on your post."
+msgstr "Image utilisé si votre article n'en contient pas."
+
+#: wp-smart-image.php:94
+#@ wp-smart-image
+msgid "Replacement image for medium size"
+msgstr "Remplacement des images de taille moyenne"
+
+#: wp-smart-image.php:96
+#@ wp-smart-image
+msgid "Set medium size filename to show in case it not exists one on your post."
+msgstr "Image utilisé si votre article n'en contient pas."
+
+#: wp-smart-image.php:100
+#@ wp-smart-image
+msgid "Replacement image for large size"
+msgstr "Remplacement des images de grande taille."
+
+#: wp-smart-image.php:102
+#@ wp-smart-image
+msgid "Set large size filename to show in case it not exists one on your post."
+msgstr "Image utilisé si votre article n'en contient pas."
+
+#: wp-smart-image.php:105
+#@ wp-smart-image
+msgid "Replacement image for full size"
+msgstr "Remplacement des images originales."
+
+#: wp-smart-image.php:107
+#@ wp-smart-image
+msgid "Set full size filename to show in case it not exists one on your post."
+msgstr "Image utilisé si votre article n'en contient pas."
+
+#: wp-smart-image.php:112
+#@ wp-smart-image
+msgid "Default alternate text"
+msgstr "Textes alternatifs par défauts."
+
+#: wp-smart-image.php:113
+#@ wp-smart-image
+msgid "Default ALT attribute text:"
+msgstr "L'attribut ALT des images."
+
+#: wp-smart-image.php:115
+#@ wp-smart-image
+msgid "This string will show with <strong>\"alt\"</strong> attribute in case you have been not assigned one through your image panel."
+msgstr "Saisissez le nom par défaut de l'attribut <strong>\"ALT\"</strong>. Ce texte prendra effet seulement si vous n'avez pas renseigné cet attribut."
+
+#: wp-smart-image.php:116
+#@ wp-smart-image
+msgid "Default TITLE attribute text:"
+msgstr "L'attribut TITLE des images"
+
+#: wp-smart-image.php:118
+#@ wp-smart-image
+msgid "This string will show with <strong>\"title\"</strong> attribute in case you have been not assigned one through your image panel."
+msgstr "Saisissez le nom par défaut de l'attribut <strong>\"TITLE\"</strong>. Ce texte prendra effet seulement si vous n'avez pas renseigné cet attribut."
+
+#: wp-smart-image.php:120
+#@ wp-smart-image
+msgid "Update options &raquo;"
+msgstr "Enregistrer les modifications &raquo;"
+
+#: wp-smart-image.php:124
+#@ wp-smart-image
+msgid "Managing data"
+msgstr "Gérer les données."
+
+#: wp-smart-image.php:125
+#@ wp-smart-image
+msgid "<span class=\"aviso\">Warning!</span> If you click the wrong button, you will loose all you have been set manually."
+msgstr "<span class=\"aviso\">Attention !</span> Si vous cliquez sur le mauvais bouton, vous perdrez toutes les modifications apportées à cette page !"
+
+#: wp-smart-image.php:127
+#@ wp-smart-image
+msgid "Remove plugin database info"
+msgstr "Supprimez les informations du plugin contenu dans votre base de données."
+
+#: wp-smart-image.php:127
+#@ wp-smart-image
+msgid "Sure you want remove plugin database entry?"
+msgstr "Êtes-vous sûr de supprimer les informations de votre base de données ?"
+
+#: wp-smart-image.php:127
+#@ wp-smart-image
+msgid "Remove data"
+msgstr "Supprimez les données."
+
+#: wp-smart-image.php:128
+#@ wp-smart-image
+msgid "Populate/Restore plugin database info"
+msgstr "Restaurer les informations du plugin."
+
+#: wp-smart-image.php:128
+#@ wp-smart-image
+msgid "Sure you want populate plugin database entry with default data?"
+msgstr "Êtes-vous sûr de restaurer les paramètres par défaut du plugin ?"
+
+#: wp-smart-image.php:128
+#@ wp-smart-image
+msgid "Populate/Restore data"
+msgstr "Restaurer les informations du plugin."
+
+#: wp-smart-image.php:139
+#@ wp-smart-image
+msgid "Image parameters"
+msgstr "Paramètres des images"
+
+#: wp-smart-image.php:142
+#: wp-smart-image.php:256
+#@ wp-smart-image
+msgid "Parameter"
+msgstr "Fonctions"
+
+#: wp-smart-image.php:143
+#: wp-smart-image.php:257
+#@ wp-smart-image
+msgid "Value"
+msgstr "Valeurs"
+
+#: wp-smart-image.php:144
+#: wp-smart-image.php:258
+#@ wp-smart-image
+msgid "Behavior"
+msgstr "Comportements"
+
+#: wp-smart-image.php:160
+#@ wp-smart-image
+msgid "Affects the size of the image"
+msgstr "Affecte la taille de l'image"
+
+#: wp-smart-image.php:162
+#@ wp-smart-image
+msgid "Thumbnail size"
+msgstr "Miniatures"
+
+#: wp-smart-image.php:163
+#@ wp-smart-image
+msgid "Medium size"
+msgstr "Médium"
+
+#: wp-smart-image.php:164
+#@ wp-smart-image
+msgid "Large size"
+msgstr "Grande taille"
+
+#: wp-smart-image.php:165
+#@ wp-smart-image
+msgid "Full size"
+msgstr "Taille originale"
+
+#: wp-smart-image.php:171
+#: wp-smart-image.php:199
+#: wp-smart-image.php:223
+#: wp-smart-image.php:236
+#: wp-smart-image.php:249
+#: wp-smart-image.php:270
+#: wp-smart-image.php:283
+#: wp-smart-image.php:296
+#: wp-smart-image.php:328
+#@ wp-smart-image
+msgid "Example"
+msgstr "Exemple"
+
+#: wp-smart-image.php:171
+#: wp-smart-image.php:199
+#: wp-smart-image.php:223
+#: wp-smart-image.php:236
+#: wp-smart-image.php:249
+#: wp-smart-image.php:270
+#: wp-smart-image.php:283
+#: wp-smart-image.php:296
+#: wp-smart-image.php:328
+#: wp-smart-image.php:336
+#: wp-smart-image.php:338
+#: wp-smart-image.php:340
+#: wp-smart-image.php:342
+#: wp-smart-image.php:345
+#: wp-smart-image.php:347
+#@ wp-smart-image
+msgid "Click to select code"
+msgstr "Cliquez pour sélectionner le code"
+
+#: wp-smart-image.php:188
+#@ wp-smart-image
+msgid "Affects the presentation of the image"
+msgstr "Affecte la présentation de l'image"
+
+#: wp-smart-image.php:190
+#@ wp-smart-image
+msgid "Image linked to post"
+msgstr "Image et lien de l'article"
+
+#: wp-smart-image.php:191
+#@ wp-smart-image
+msgid "Image without link"
+msgstr "Image sans lien"
+
+#: wp-smart-image.php:192
+#@ wp-smart-image
+msgid "Only image URL"
+msgstr "Adresse de l'image"
+
+#: wp-smart-image.php:193
+#@ wp-smart-image
+msgid "Image linked to its full version"
+msgstr "Image et lien de l'image originale"
+
+#: wp-smart-image.php:214
+#@ wp-smart-image
+msgid "Adds width and height attributes to the image. Supposing the image has 100px X 100px"
+msgstr "Ajout des attributs de largeur et de hauteur à l'image. En supposant que l'image est de 100px sur 100px"
+
+#: wp-smart-image.php:231
+#: wp-smart-image.php:244
+#: wp-smart-image.php:265
+#: wp-smart-image.php:278
+#: wp-smart-image.php:291
+#@ wp-smart-image
+msgid "Any value"
+msgstr "Aucune valeur"
+
+#: wp-smart-image.php:232
+#: wp-smart-image.php:245
+#@ wp-smart-image
+msgid "Adds to the image the attribute"
+msgstr "Ajoutez à l'image l'attribut"
+
+#: wp-smart-image.php:253
+#@ wp-smart-image
+msgid "Link parameters"
+msgstr "Paramètres des liens"
+
+#: wp-smart-image.php:266
+#: wp-smart-image.php:279
+#: wp-smart-image.php:292
+#: wp-smart-image.php:315
+#@ wp-smart-image
+msgid "Adds to the link the attribute"
+msgstr "Ajoutez l'attribut"
+
+#: wp-smart-image.php:311
+#: wp-smart-image.php:322
+#@ wp-smart-image
+msgid "Frame name"
+msgstr "Frame name"
+
+#: wp-smart-image.php:317
+#: wp-smart-image.php:318
+#: wp-smart-image.php:319
+#: wp-smart-image.php:320
+#: wp-smart-image.php:321
+#: wp-smart-image.php:322
+#@ wp-smart-image
+msgid "The linked url will be opened"
+msgstr "Le lien s'ouvrira"
+
+#: wp-smart-image.php:317
+#@ wp-smart-image
+msgid "in same window"
+msgstr "dans la même fenêtre"
+
+#: wp-smart-image.php:317
+#@ wp-smart-image
+msgid "Default value"
+msgstr "Paramètre par défaut"
+
+#: wp-smart-image.php:318
+#@ wp-smart-image
+msgid "on a new window"
+msgstr "dans une nouvelle fenêtre"
+
+#: wp-smart-image.php:319
+#@ wp-smart-image
+msgid "on parent frame"
+msgstr "dans la page"
+
+#: wp-smart-image.php:320
+#@ wp-smart-image
+msgid "using full window size"
+msgstr "en plein écran"
+
+#: wp-smart-image.php:321
+#@ wp-smart-image
+msgid "in a new window through javascript. Very useful for DTD Strict websites"
+msgstr "dans une nouvelle fenêtre (Javascript). Très utile pour les sites utilisant DTD Strict"
+
+#: wp-smart-image.php:322
+#@ wp-smart-image
+msgid "in the frame named as you have been set here"
+msgstr "dans le cadre portant le nom que vous avez choisi"
+
+#: wp-smart-image.php:333
+#@ wp-smart-image
+msgid "More examples"
+msgstr "Plus d'exemples"
+
+#: wp-smart-image.php:335
+#@ wp-smart-image
+msgid "Thumbnail, no link:"
+msgstr "Miniature, sans lien :"
+
+#: wp-smart-image.php:337
+#@ wp-smart-image
+msgid "Only image URL, medium size:"
+msgstr "Adresse de l'image, taille moyenne :"
+
+#: wp-smart-image.php:339
+#@ wp-smart-image
+msgid "Thumbnail, linked to original image:"
+msgstr "Miniature, liée à l'image originale : "
+
+#: wp-smart-image.php:341
+#@ wp-smart-image
+msgid "Adding custom CSS styles:"
+msgstr "Ajoutez un styles CSS personnalisés :"
+
+#: wp-smart-image.php:344
+#@ wp-smart-image
+msgid "Setting a dynamic CSS background:"
+msgstr "Ajoutez une image de fond dynamique :"
+
+#: wp-smart-image.php:346
+#@ wp-smart-image
+msgid "Setting MEDIUM SIZE image and respective FULL SIZE url code below it &#40;ImageShack style&#41;:"
+msgstr "Réglage de l'image moyenne, suivis de l'adresse de l'image originale. Présentation tirée de ImageShack :"
+
+#: wp-smart-image.php:358
+#@ wp-smart-image
+msgid "Essential resource for web designers"
+msgstr "Ressource essentielle pour les concepteurs de sites Web"
+
+#: wp-smart-image.php:360
+#@ wp-smart-image
+msgid "With WP Smart Image you can:"
+msgstr "Avec WP Smart Image, vous pouvez :"
+
+#: wp-smart-image.php:362
+#@ wp-smart-image
+msgid "Choose the image to show."
+msgstr "Choisir l'image à afficher."
+
+#: wp-smart-image.php:363
+#@ wp-smart-image
+msgid "Choose between the four presets WordPress sizes: Thumbnail, Medium, Large and Full."
+msgstr "Choisir entre les quatre préréglages de WordPress : Miniature, Médium, Large et Originale."
+
+#: wp-smart-image.php:364
+#@ wp-smart-image
+msgid "Link the image to the article or leave it without a link."
+msgstr "Liée l'image avec l'article, ou le laissez le seul sans aucun lien."
+
+#: wp-smart-image.php:365
+#@ wp-smart-image
+msgid "Showing images in the posts list, even if those images are not setting to appear in the content."
+msgstr "Afficher les images dans la listes des articles, même si ces images n'apparaissent pas dans le contenu."
+
+#: wp-smart-image.php:366
+#@ wp-smart-image
+msgid "Get the image url instead of the whole tag."
+msgstr "Obtenir l'adresse de l'image au lieu du code html complet."
+
+#: wp-smart-image.php:367
+#@ wp-smart-image
+msgid "Personalize the alt and title attributes if they haven&#39;t been configured already."
+msgstr "Personnaliser le titre et l'attribut alt, si elles ne l'ont pas déjà été configuré."
+
+#: wp-smart-image.php:368
+#@ wp-smart-image
+msgid "Add custom CSS classes and ID to properly handling the images through CSS, javascript, PHP and others web resources."
+msgstr "Ajouter des classes CSS et ID pour mieux traiter les images par le biais des feuilles de styles, des fichiers javascript, PHP et d'autres ressources Web."
+
+#: wp-smart-image.php:369
+#@ wp-smart-image
+msgid "Add a link to the full version of the image from the thumbnail or the medium size one."
+msgstr "Ajouter un lien vers l'image originale de la miniature ou de l'image de taille moyenne."
+
+#: wp-smart-image.php:370
+#@ wp-smart-image
+msgid "Personalize the generic images and its paths for all the sizes."
+msgstr "Personnaliser les images par défaut et les images des différents formats."
+
+#: wp-smart-image.php:372
+#@ wp-smart-image
+msgid "How to configure your images to be displayed:"
+msgstr "Comment faire pour configurer les images à afficher :"
+
+#: wp-smart-image.php:374
+#@ wp-smart-image
+msgid "Upload the images through your edition panel (required for database file association)."
+msgstr "Envoyez les images depuis le panneau d'édition (obligatoire)."
+
+#: wp-smart-image.php:375
+#@ wp-smart-image
+msgid "In the Gallery section, drag the image you want to show to the first position, then it will be in the cover, even if you don&#39;t use it in the content."
+msgstr "Dans la section Galerie, faites glisser l'image que vous voulez afficher. Elle sera en couverture, même si vous ne l'utilisez pas dans le contenu de l'article."
+
+#: wp-smart-image.php:376
+#@ wp-smart-image
+msgid "That&#39;s it."
+msgstr "C'est tout !"
+
+#: wp-smart-image.php:378
+#@ wp-smart-image
+msgid "Get support"
+msgstr "Obtenez de l'aide !"
+
+#: wp-smart-image.php:379
+#@ wp-smart-image
+msgid "WP Smart Image main site"
+msgstr "Page dédié à WP Smart Image"
+
+#: wp-smart-image.php:380
+#@ wp-smart-image
+msgid "Support:"
+msgstr "Aides :"
+
+#: wp-smart-image.php:380
+#@ wp-smart-image
+msgid "Spanish support"
+msgstr "En espagnole"
+
+#: wp-smart-image.php:380
+#@ wp-smart-image
+msgid "English support"
+msgstr "En anglais"
+
+#: wp-smart-image.php:383
+#@ wp-smart-image
+msgid "They have been collaborated on this project"
+msgstr "Ils ont collaboré sur ce projet"
+
+#: wp-smart-image.php:384
+#@ wp-smart-image
+msgid "Translating revision for version 0.1.1:"
+msgstr "Traduction de la version 0.1.1 :"
+
+#: wp-smart-image.php:385
+#@ wp-smart-image
+msgid "Javascript code for target _blank:"
+msgstr "Code Javascript pour la fonction target _blank :"
+
+#: wp-smart-image.php:386
+#@ wp-smart-image
+msgid "Testing background image:"
+msgstr "Test de l'image de fond :"
+
+#: wp-smart-image.php:387
+#@ wp-smart-image
+msgid "Hard heuristic plugin testing:"
+msgstr "Test du plugin :"
+
+#: wp-smart-image.php:387
+#@ wp-smart-image
+msgid "My grandma."
+msgstr "Ma grand-mère."
+
+#: wp-smart-image.php:388
+#@ wp-smart-image
+msgid "Coffee and cakes:"
+msgstr "Café et gâteaux :"
+
+#: wp-smart-image.php:391
+#@ wp-smart-image
+msgid "Thank you!:"
+msgstr "Merci !"
+
+#: wp-smart-image.php:392
+#@ wp-smart-image
+msgid "To"
+msgstr "À"
+
+#: wp-smart-image.php:392
+#@ wp-smart-image
+msgid "for his valuable achievements for the webmasters community, and for being a true example to be followed in this area"
+msgstr "pour ses précieux acquis dans la communauté des webmasters, et pour être un véritable exemple dans ce domaine"
+
+#: wp-smart-image.php:392
+#@ wp-smart-image
+msgid "for their constant support and friendship, and for being my teacher in CSS"
+msgstr "pour leur appui constant, pour leur amitié, et pour avoir été mon professeur en CSS"
+
+#: wp-smart-image.php:392
+#@ wp-smart-image
+msgid "Spain"
+msgstr "Espagne"
+
+#: wp-smart-image.php:392
+#@ wp-smart-image
+msgid "because her represents my first start in the web development area. To me your vote worth quad"
+msgstr "parce que ce plugin représente mon premier départ dans le domaine du développement web. Pour moi, votre vote vaut quad"
+
+#: wp-smart-image.php:392
+#@ wp-smart-image
+msgid "Mexico"
+msgstr "Mexique"
+
+#: wp-smart-image.php:392
+#@ wp-smart-image
+msgid "compadre, my brother from life and strict Linux teacher =P"
+msgstr "mon frère dans la vie et mon enseignant (assez strict) Linux =P"
+
+#: wp-smart-image.php:392
+#@ wp-smart-image
+msgid "respectable abducted javascripter, and even more respectable friend"
+msgstr "Développeur Javascript très respectable, et même plus... c'est un véritable ami"
+
+#: wp-smart-image.php:393
+#@ wp-smart-image
+msgid "This first plugin release is dedicated to the memory of <strong>Enrique33</strong>."
+msgstr "Ce premier plugin est dédiée à la mémoire de <strong>Enrique33.</strong>"
+
+#: wp-smart-image.php:440
+#@ wp-smart-image
+msgid "Article image"
+msgstr "Image de l'article"
+
+#: wp-smart-image.php:441
+#@ wp-smart-image
+msgid "Go to article"
+msgstr "Allez à l'article"
+

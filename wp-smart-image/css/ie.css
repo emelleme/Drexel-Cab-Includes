@@ -1,0 +1,53 @@
+#wpsi-contenedor {
+filter:expression(document.execCommand("BackgroundImageCache", false, true));
+}
+
+#wpsi-contenedor ul#wpsi-caja {
+position: relative;
+z-index: 2;
+top: 1px;
+overflow: hidden;
+margin-top: -20px;
+height: 32px;
+}
+
+#wpsi-contenedor ul#wpsi-caja li a {
+display: inline-block;
+border: 1px solid #e3e3e3;
+border-bottom: 1px solid #ccc;
+overflow: hidden;
+}
+
+#wpsi-contenedor ul#wpsi-caja li.wpsi-selected a:hover {
+border-bottom: 1px solid #f1f1f1;
+}
+
+#wpsi-contenedor h2 {
+margin: 15px 0 0 0;
+}
+
+#wpsi-contenedor p.formulario input,
+#wpsi-contenedor form.form2 p.formulario textarea {
+width: 768px;
+}
+
+#wpsi-contenedor form.form2 p.formulario textarea {
+height: 110px;
+}
+
+#wpsi-contenedor .wpsi-derecha p.formulario input,
+#wpsi-contenedor .wpsi-izquierda p.formulario input {
+width: 368px;
+}
+
+#wpsi-contenedor h3.wpsi-logo {
+margin: 0 0 0 5px;
+}
+
+#wpsi-contenedor .wpsi-creditos {
+margin: 38px 0 0 3px;
+}
+
+.wpsi-tabla td.ejemplo input {
+width: 740px;
+}

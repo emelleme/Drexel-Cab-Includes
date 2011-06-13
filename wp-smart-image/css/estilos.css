@@ -1,0 +1,503 @@
+/* 
+Archivo CSS para WP Smart Image | CSS file for WP Smart Image
+Darío Ferrer | http://www.darioferrer.com/wp-smart-image/
+ */
+
+body.settings_page_wp-smart-image #wpbody,
+#wpsi-contenedor {
+width: 800px;
+}
+
+#wpsi-contenedor .cursiva {
+font-style: italic;
+}
+
+#wpsi-contenedor .chiquita {
+font-size: 11px;
+}
+
+#wpsi-contenedor .negrita {
+font-weight: bold;
+}
+
+#wpsi-contenedor .wpsi-separador {
+clear: both;
+}
+
+#wpsi-contenedor .wpsi-normal {
+font-weight: normal;
+}
+
+#wpsi-contenedor .wpsi-contenido {
+clear: both;
+}
+
+#wpsi-contenedor .aviso {
+text-transform: uppercase;
+font-weight: bold;
+color: #cc0000;
+}
+
+#wpsi-contenedor h2 {
+font-family: Georgia, "Times New Roman", Times, serif;
+font-size: 30px;
+font-weight: normal;
+padding-bottom: 15px;
+margin: 20px 0 -25px;
+color: #666666;
+}
+
+#wpsi-contenedor h3 {
+font-family: Georgia, "Times New Roman", Times, serif;
+color: #006f96;
+font-size: 22px;
+font-weight: normal;
+border-bottom: 1px solid #b2d4df;
+padding-bottom: 10px;
+margin: 10px 0;
+line-height: 130%;
+}
+
+#wpsi-contenedor h4 {
+font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+font-size: 13px;
+color: #006f96;
+margin: 15px 0;
+}
+
+#wpsi-contenedor ul#wpsi-caja {
+float: right;
+height: 31px;
+}
+
+#wpsi-contenedor ul#wpsi-caja li {
+float: left;
+height: 30px;
+line-height: 30px;
+margin: 0 8px 0 0;
+}
+
+#wpsi-contenedor ul#wpsi-caja li a {
+display: block;
+text-decoration: none;
+height: 18px;
+line-height: 18px;
+padding: 6px;
+color: #444;
+background: #f9f9f9;
+border: 1px solid #e3e3e3;
+border-bottom: none;
+overflow: hidden;
+}
+
+#wpsi-contenedor ul#wpsi-caja li a:hover {
+border-color: #ccc;
+}
+
+#wpsi-contenedor ul#wpsi-caja li.wpsi-selected a {
+
+background: #f1f1f1;
+border-color: #ccc;
+border-bottom: 1px solid #f1f1f1;
+}
+
+#wpsi-contenedor fieldset,
+#wpsi-contenedor .wpsi-contenido#tcontent3 {
+margin: 0 0 20px;
+background: #f1f1f1;
+padding: 8px 8px 12px;
+border: 1px solid #ccc;
+}
+
+#wpsi-contenedor fieldset {
+display: block;
+}
+
+#wpsi-contenedor p.descripcion {
+font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+font-size: 13px;
+margin: 8px 0 4px;
+font-weight: bold;
+color: #006f96;
+}
+
+#wpsi-contenedor form.form2 p.descripcion {
+font-size: 11px;
+color: #666666;
+}
+
+#wpsi-contenedor p.formulario {
+margin: 0;
+}
+
+#wpsi-contenedor p.submit {
+margin: 0;
+padding: 0;
+}
+
+#wpsi-contenedor p.formulario input,
+#wpsi-contenedor form.form2 p.formulario textarea {
+margin: 0;
+padding: 6px;
+font-size: 13px;
+font-family: "Andale Mono", "Lucida Console", "Consoles", "Courier New", Courier, monospace;
+width: 780px;
+color: #555;
+background: #fff;
+}
+
+#wpsi-contenedor form.form2 p.formulario {
+font-weight: normal;
+padding-bottom: 12px;
+border-bottom: 1px solid #ccc;
+}
+
+#wpsi-contenedor form.form2 p.formulario textarea {
+overflow: auto; 
+}
+
+#wpsi-contenedor form.form2 p.formulario input,
+#wpsi-contenedor form.form2 p.formulario textarea {
+font-size: 12px;
+color: #006f96;
+cursor: pointer;
+}
+
+#wpsi-contenedor .wpsi-izquierda {
+width: 383px;
+float: left;
+padding: 0 7px 0 0;
+}
+
+#wpsi-contenedor .wpsi-derecha {
+width: 383px;
+float: right;
+border-left: 1px solid #ccc;
+padding: 0 0 0 8px;
+}
+
+#wpsi-contenedor .linea-arriba {
+border-top: 1px solid #ccc;
+}
+
+#wpsi-contenedor .wpsi-derecha.linea-abajo p.descripcion,
+#wpsi-contenedor .wpsi-izquierda.linea-abajo p.descripcion {
+margin: 0 0 4px;
+}
+
+#wpsi-contenedor .wpsi-linea {
+border-top: 1px solid #ccc;
+width: 782px;
+height: 10px;
+}
+
+#wpsi-contenedor .wpsi-derecha p.formulario input,
+#wpsi-contenedor .wpsi-izquierda p.formulario input {
+width: 380px;
+}
+
+#wpsi-contenedor .wpsi-derecha p.explicacion,
+#wpsi-contenedor .wpsi-izquierda p.explicacion {
+margin-bottom: 0;
+}
+
+#wpsi-contenedor p.explicacion {
+font-size: 11px;
+margin: 6px 0 0;
+font-weight: normal;
+padding-bottom: 8px;
+}
+
+#wpsi-contenedor p.ultimo,
+#wpsi-contenedor form.form2 p.ultimo {
+padding-bottom: 0;
+border-bottom: none;
+}
+
+#wpsi-contenedor h3.wpsi-logo {
+text-indent: -5000em;
+overflow: hidden;
+height: 88px;
+border: none;
+margin: 0;
+padding: 0;
+float: left;
+margin: 10px 0 0 10px;
+}
+
+#wpsi-contenedor .wpsi-acerca {
+width: 380px;
+float: right;
+margin-right: 10px;
+}
+
+#wpsi-contenedor #tcontent3 ul {
+list-style: disc;
+padding-left: 15px;
+margin-bottom: 15px;
+}
+
+#wpsi-contenedor .wpsi-creditos {
+float: left;
+width: 350px;
+line-height: 160%;
+margin: 57px 0 0 6px;
+color: #666666;
+}
+
+#wpsi-contenedor .wpsi-creditos h4 {
+margin: 12px 0 0;
+color: #666666;
+}
+
+#wpsi-contenedor .wpsi-creditos p {
+font-size: 11px;
+margin: 0;
+padding: 8px 0;
+border-bottom: 1px solid #b2d4df;
+}
+
+#wpsi-contenedor .wpsi-creditos span.titulo {
+font-weight: bold;
+color: #006f96;
+}
+
+.wpsi-tabla {
+border-collapse: collapse;
+width: 778px;
+font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+font-size: 11px;
+}
+
+.wpsi-tabla * {
+font-size: 11px;
+}
+
+.wpsi-tabla th {
+background: #7c7c7c;
+color: #fff;
+border: 1px solid #7c7c7c;
+text-align: left;
+}
+
+.wpsi-tabla th.letra {
+background: transparent;
+border: none;
+color: #7c7c7c;
+text-align: center;
+font-size: 13px;
+}
+
+.wpsi-tabla th.letra.ultima {
+padding-top: 20px;
+}
+
+.wpsi-tabla th.codigo {
+width: 380px;
+}
+
+.wpsi-tabla th, .wpsi-tabla td {
+padding: 8px;
+}
+
+.wpsi-tabla td {
+background: #fff;
+border: 1px solid #ccc;
+}
+
+.wpsi-tabla tr.vacio td {
+background: transparent;
+border: none;
+padding: 0;
+}
+
+.wpsi-tabla td.ejemplo input {
+font-family: "Andale Mono", "Lucida Console", "Consoles", "Courier New", Courier, monospace;
+width: 700px;
+background: #f9f9f9;
+padding: 6px;
+cursor: pointer;
+margin: 0;
+color: #666666;
+}
+
+.wpsi-tabla td.ejemplo p {
+margin: 0;
+}
+
+.wpsi-tabla td.ejemplo p.ejemplo-explicacion {
+margin-bottom: 6px;
+}
+
+.wpsi-tabla td.espacio {
+border: none;
+}
+
+.wpsi-tabla th.nombre1,
+.wpsi-tabla th.nombre2 {
+width: 20%;
+}
+
+.wpsi-tabla p {
+line-height: 15px;
+margin: 0 0 8px;
+}
+
+.wpsi-tabla .codigoTipo,
+.wpsi-tabla .codigoAzul {
+font-family: "Andale Mono", "Lucida Console", "Consoles", "Courier New", Courier, monospace;
+}
+
+.wpsi-tabla .codigoTipo,
+.wpsi-tabla .codigoAzul {
+font-family: "Andale Mono", "Lucida Console", "Consoles", "Courier New", Courier, monospace;
+}
+
+.wpsi-tabla .codigoAzul {
+color: #006f96;
+}
+
+.wpsi-tabla td.codigoAzul {
+font-size: 12px;
+color: #ff0000;
+}
+
+.wpsi-tabla li {
+margin: 0 0 8px 0;
+line-height: 17px;
+padding: 0;
+border: none;
+}
+
+.wpsi-fl-contenedor {
+}
+
+.wpsi-fl-contenedor .negrita {
+font-weight: bold;
+color: #626262;
+}
+
+table.wpsi-fl-tabla {
+border-collapse: collapse;
+width: 100%;
+}
+
+table.wpsi-fl-tabla th {
+background: #e3e3e3;
+color: #666666;
+padding: 6px;
+text-align: left;
+}
+
+table.wpsi-fl-tabla td {
+border-bottom: 6px solid #fff;
+}
+
+span.wpsi-fl-rojo {
+color: #cc0000;
+}
+
+#wpsi-gris {
+background: #efefef;
+border-top: 1px solid #ccc;
+}
+
+table.wpsi-fl-tabla td.wpsi-fl-input {
+width: 10px;
+padding: 6px;
+}
+
+table.wpsi-fl-tabla td.wpsi-fl-img {
+width: 48px;
+padding: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

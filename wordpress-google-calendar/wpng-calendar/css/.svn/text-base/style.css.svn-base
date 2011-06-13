@@ -1,0 +1,56 @@
+.wpng-cal-loading {
+	height: 100px;
+	text-align: center;
+}
+
+.wpng-cal-image {
+	margin-top: 20px;
+}
+
+.wpng-page-list-table {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.wpng-page-list-head {
+	padding-top: 20px;
+	font-size: 110%;
+	font-weight: bold;
+}
+
+.wpng-page-list-time {
+	width: 30%;
+	padding-top: 10px;
+}
+
+.wpng-entry {
+	font-size: 120%;
+}
+
+.wpng-entry-label-row {
+	padding-top: 7px;
+	font-size: 120%;
+}
+
+.wpng-entry-label {
+	font-weight: bold;
+	width: 60px;
+        float: left;
+}
+
+.wpng-entry-label-text {
+	float: left;
+}
+
+.wpng-entry-desc {
+	padding-top: 10px;
+	font-size: 110%;
+}
+
+.wpng-widget-date-title {
+	margin-top: 6px;
+}
+
+br {
+	clear: both;
+}
